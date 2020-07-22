@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-Debjit-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/the_complex_guy)](https://twitter.com/the_complex_guy)  [![Gmail Badge](https://img.shields.io/badge/-zxyron06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zxyron06@gmail.com)](mailto:zxyron0@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Debjit-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/the_complex_guy)](https://twitter.com/the_complex_guy)  [![Gmail Badge](https://img.shields.io/badge/-zxyron06@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zxyron06@gmail.com)](mailto:zxyron0@gmail.com)
 
+[![Facebook Badge](https://img.shields.io/badge/-Debjit-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/insane.nihilist)](https://www.facebook.com/insane.nihilist)  [![Telegram Badge](https://img.shields.io/badge/-Debjit-3b5998?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/xyron)](https://t.me/xyron) 
+
+
+https://t.me/xyron
+
+?style=for-the-badge&logo=appveyor
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## _About_
