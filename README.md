@@ -14,8 +14,6 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=xayron&show_icons=true)
 
-```Inspired from : https://github.com/starry69/starry69/blob/master/README.md```
-
 <!--
 **xayron/xayron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
