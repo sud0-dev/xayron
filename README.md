@@ -8,7 +8,7 @@
 
 - _**Learning :** Android | AI | Pytjon | Java | JavaScript_
 - _**Languages :** C/C++ | Dart_
-- _**Currently Working On :** Flutter_
+- _**Currently Working On :** Flutter, Android_
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
