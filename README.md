@@ -6,8 +6,8 @@
 
 ## _About_
 
-- _**Learning :** Android | AI | Pytjon | Java | JavaScript_
-- _**On list : Rust | Golang_
+- _**Learning :** Android | AI | Python | Java | JavaScript_
+- _**On list :** Rust | Golang_
 - _**Languages :** C/C++ | Dart_
 - _**Currently Working On :** Flutter, Android_
 
