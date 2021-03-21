@@ -6,10 +6,10 @@
 
 ## _About_
 
-- _**Learning :** Android | AI | Python | Java | JavaScript_
+- _**Learning :** Android_
 - _**On list :** Rust | Golang_
-- _**Languages :** C/C++ | Dart_
-- _**Currently Working On :** Flutter, Android_
+- _**Languages :** C/C++ | Dart | Python | Java | R | JavaScript_
+- _**Currently Working On :** Flutter, React, Android_
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
