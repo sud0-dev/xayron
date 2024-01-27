@@ -1,14 +1,10 @@
 ### Still learning 😷
 
-[![Twitter Badge](https://img.shields.io/badge/-Follow_Me_Here-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/the_complex_guy)](https://twitter.com/the_complex_guy)  [![Gmail Badge](https://img.shields.io/badge/-Send_an_Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zxyron0@gmail.com)](mailto:zxyron0@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Social-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/insane.nihilist)](https://www.facebook.com/insane.nihilist)  [![Telegram Badge](https://img.shields.io/badge/-Text_Here-3b5998?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/xyron)](https://t.me/xyron)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## _About_
 
 - _**Learning :** Android_
 - _**On list :** Rust | Golang_
-- _**Languages :** C/C++ | Dart | Python | Java | R | JavaScript_
+- _**Languages :** C/C++ | Dart | Python | Java | JavaScript_
 - _**Currently Working On :** Flutter, React, Android_
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
